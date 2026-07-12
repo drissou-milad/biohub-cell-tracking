@@ -1,0 +1,2 @@
+# Keep this directory in Git.
+# Each training run creates a subdirectory here containing metrics, plots, and checkpoints.

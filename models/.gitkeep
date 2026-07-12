@@ -1,0 +1,2 @@
+# Keep this directory in Git.
+# Trained model checkpoints are generated during training and are not committed.
